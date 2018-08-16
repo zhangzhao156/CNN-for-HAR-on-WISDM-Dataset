@@ -8,7 +8,7 @@ WISDM Dataset(WISDM_ar_v1.1_raw.txt) is downloaded from http://www.cis.fordham.e
 
 WISDM Dataset includes six activities:sitting, jogging, walking, downstairs, upstaires, standing
 
-The three models' performance is shown as following:
+compare the three models' performance,as it is shown as following:
 
 ![Image text](https://github.com/zhangzhao156/CNN-for-HAR-on-WISDM-Dataset/blob/master/%E4%B8%89%E7%A7%8D%E6%A8%A1%E5%9E%8Bloss%E5%AF%B9%E6%AF%94.png)
 
